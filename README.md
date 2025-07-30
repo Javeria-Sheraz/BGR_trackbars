@@ -1,7 +1,6 @@
-
 # 🎨 BGR_trackbars
 
-A simple interactive OpenCV application for understanding how colors are formed using the BGR (Blue, Green, Red) color model. The tool provides real-time color formation using trackbars, allowing users to visually experiment with different color combinations.
+A simple interactive OpenCV application for understanding how colors are formed using the BGR (Blue, Green, Red) color model. The tool provides real-time color formation using trackbars, allowing users to experiment with different color combinations visually.
 
 ---
 
@@ -55,7 +54,7 @@ python BGR_trackbar.py
 
 * Adjust the **Blue**, **Green**, and **Red** sliders to create your desired color.
 * Use the **ON/OFF switch** to toggle color visibility.
-* Press the **Esc key (⎋)** to exit the window.
+* Press the **Esc key** to exit the window.
 
 ---
 
@@ -66,4 +65,3 @@ python BGR_trackbar.py
 * Basic NumPy image manipulation
 * Binary logic control with GUI elements
 
----
